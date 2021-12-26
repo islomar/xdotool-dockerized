@@ -12,3 +12,5 @@ You can find several examples under the folder "examples", e.g. how to automatic
 ## TODO
 - Upload a Docker image with a tag and use it
 - Document how to develop
+- Dockerfile linter target
+- Search more examples from Stream Deck
