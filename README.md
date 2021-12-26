@@ -14,3 +14,4 @@ You can find several examples under the folder "examples", e.g. how to automatic
 - Document how to develop
 - Dockerfile linter target
 - Search more examples from Stream Deck
+- Open PR for xdotools: add Dockerfile and document its use
