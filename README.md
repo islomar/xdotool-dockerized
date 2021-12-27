@@ -20,4 +20,6 @@
 - https://timothycrosley.github.io/streamdeck-ui/#command
 
 ## TO DO
+- Add GitHub workflow for scanning.
+- Add GitHub workflow for automatically push a new image in case the version has changed...
 - Open PR for [xdotools](https://github.com/jordansissel/xdotool): add Dockerfile, integrate the publication in the pipeline and document its use
