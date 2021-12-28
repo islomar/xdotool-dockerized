@@ -8,7 +8,7 @@
 - **Examples**: you can find several examples under the folder [examples](./examples/), e.g. how to automatically **bring focus to the browser window where you are following a Google Meet videoconference**.
 - **More ideas** for using xdotool
     - https://dev.to/erikaheidi/how-to-set-up-elgatos-stream-deck-on-ubuntu-linux-2110-pdh
-    - htps://timothycrosley.github.io/streamdeck-ui/#command
+    - https://timothycrosley.github.io/streamdeck-ui#command
     - https://medium.com/daniels-tech-world/using-xdotool-at-and-bash-to-automate-netflix-and-youtube-viewing-on-linux-5ae62185d1c
 
 ## Recommendations
